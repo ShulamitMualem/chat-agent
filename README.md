@@ -4,11 +4,11 @@ A powerful AI agent built with Google Gemini that can interact with tools throug
 
 ## Features
 
-- 🤖 **Gemini AI Integration**: Powered by Google's Gemini 2.5 Flash model
-- 🛠️ **Tool Usage**: Automatically decides when and how to use available tools
-- 📄 **Document Management**: Read and edit documents through MCP tools
-- 💬 **Natural Conversations**: Responds naturally without technical jargon
-- 🔧 **Extensible Architecture**: Easy to add new tools and capabilities
+- **Gemini AI Integration**: Powered by Google's Gemini 2.5 Flash model
+- **Tool Usage**: Automatically decides when and how to use available tools
+- **Document Management**: Read and edit documents through MCP tools
+- **Natural Conversations**: Responds naturally without technical jargon
+- **Extensible Architecture**: Easy to add new tools and capabilities
 
 ## How It Works
 
