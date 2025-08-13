@@ -1,0 +1,35 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+*.egg-info/
+
+# Logs and debug
+*.log
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
+
+# Lock files
+*.lock
+
+# Build artifacts
+dist/
+build/
+
+.env
+__pycache__
+.venv
+.DS_Store
+.vs/
+bin/
+obj/
+*.user

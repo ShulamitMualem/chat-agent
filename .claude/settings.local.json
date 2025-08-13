@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm:*)",
+      "mcp__octocode__githubSearchRepositories",
+      "mcp__octocode__packageSearch",
+      "mcp__octocode__githubSearchCode",
+      "mcp__octocode__githubViewRepoStructure",
+      "mcp__octocode__githubGetFileContent",
+      "mcp__octocode__githubSearchIssues"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "octocode"
+  ]
+}

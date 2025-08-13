@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "octocode": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "octocode-mcp@latest"
+      ],
+      "env": {}
+    }
+  }
+}
